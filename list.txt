@@ -12,4 +12,11 @@ ketchup
 rice
 onions
 matoke
+omo
+soap
+detergent
+plastic basin
+jerrycan
+soap dish
+mopper
 
